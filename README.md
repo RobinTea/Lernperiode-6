@@ -20,4 +20,5 @@ Robin Taing
 ## 30.08.2024
 - [ ] Godot mit Github verbinden um Teamarbeit zu ermöglichen
 - [ ] familiarizing der Umgebung
-- [ ] 
+- [ ] erste assets hinzufügen
+- [ ] erster code (movement)
