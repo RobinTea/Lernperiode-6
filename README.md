@@ -11,7 +11,13 @@ Robin Taing
 - [ ] adsf
 
 ## 23.08.2024
-- [ ] Godot Herunterlande
+- [x] Godot Herunterlande
+- [ ] Godot mit Github verbinden um Teamarbeit zu ermöglichen
+- [x] familiarizing der Umgebung
+- [x] erstes Projekt in der Gruppe besprechen
+
+
+## 30.08.2024
 - [ ] Godot mit Github verbinden um Teamarbeit zu ermöglichen
 - [ ] familiarizing der Umgebung
-- [ ] erstes Projekt in der Gruppe besprechen
+- [ ] 
