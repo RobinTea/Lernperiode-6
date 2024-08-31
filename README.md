@@ -22,3 +22,9 @@ Robin Taing
 - [ ] familiarizing der Umgebung
 - [ ] erste assets hinzufügen
 - [ ] erster code (movement)
+
+## 06.09.2024
+- [ ] asdf
+- [ ] asdf
+- [ ] asdf
+- [ ] adsf
