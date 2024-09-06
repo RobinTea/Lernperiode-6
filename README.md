@@ -37,7 +37,7 @@ Mateo wollte daran arbeiten also werde ich auch an dieser Tutorialserie arbeiten
 
 Bild von DevWorm's Youtoube Kanal
 
-konnte assets herunterladen und erste Einstelungen tätigen. Florian hat die Map gemacht und Mateo hat lange an einem movement script gearbeitet. Es hat sich aber ausgezahlt da es kurz vor Ende funktionierte.
+Konnte Assets herunterladen und erste Einstelungen tätigen. Florian hat die Map gemacht und Mateo hat lange an einem movement script gearbeitet. Es hat sich aber ausgezahlt da es kurz vor Ende funktionierte.
 
 ## 13.09.2024
 - [ ] asdf
