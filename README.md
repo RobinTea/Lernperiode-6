@@ -33,6 +33,9 @@ Ich konnte für Infromatik viel vorarbeiten. Diese Zeit habe ich meiner meinung 
 - [ ] erster code (movement)
 
 Ich habe dieses Tutorial gefunden: https://www.youtube.com/watch?v=LOhfqjmasi0&t=220s 
+Mateo wollte daran arbeiten also werde ich auch an dieser Tutorialserie arbeiten: ![image](https://github.com/user-attachments/assets/a66424c3-9305-4e05-9c65-6032e58a3b90)
+
+Bild von DevWorm's Youtoube Kanal
 
 ## 13.09.2024
 - [ ] asdf
