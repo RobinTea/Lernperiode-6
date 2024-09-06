@@ -28,3 +28,5 @@ Robin Taing
 - [ ] familiarizing der Umgebung
 - [ ] erste assets hinzufügen
 - [ ] erster code (movement)
+
+## 13.09.2024
