@@ -18,10 +18,10 @@ Robin Taing
 
 
 ## 30.08.2024
-- [ ] M322 Folien zur steuerbarkeit
-- [ ] M231 Moodle test
+- [x] M322 Folien zur steuerbarkeit nochmal anschauen
+- [x] M231 Moodle test 1718, 1715, 1712
 - [ ] M231 Moddle test für dls nächste mal
-- [ ] M231 Moodle abgabe 1716
+- [x] M231 Moodle abgabe 1716
 
 ## 06.09.2024
 - [ ] Godot mit Github verbinden um Teamarbeit zu ermöglichen
