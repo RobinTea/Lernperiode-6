@@ -31,5 +31,7 @@ Ich konnte für Infromatik viel vorarbeiten. Diese Zeit habe ich meiner meinung 
 - [ ] erste assets hinzufügen
 - [ ] erster code (movement)
 
+Ich habe dieses Tutorial gefunden: https://www.youtube.com/watch?v=LOhfqjmasi0&t=220s 
+
 ## 13.09.2024
 - [ ] asdf
