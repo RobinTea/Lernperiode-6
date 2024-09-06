@@ -28,14 +28,16 @@ Ich konnte für Infromatik viel vorarbeiten. Diese Zeit habe ich meiner meinung 
 
 ## 06.09.2024
 - [ ] Godot mit Github verbinden um Teamarbeit zu ermöglichen
-- [ ] familiarizing der Umgebung
-- [ ] erste assets hinzufügen
-- [ ] erster code (movement)
+- [x] familiarizing der Umgebung
+- [x] erste assets hinzufügen
+- [x] erster code (movement)
 
 Ich habe dieses Tutorial gefunden: https://www.youtube.com/watch?v=LOhfqjmasi0&t=220s 
 Mateo wollte daran arbeiten also werde ich auch an dieser Tutorialserie arbeiten: ![image](https://github.com/user-attachments/assets/a66424c3-9305-4e05-9c65-6032e58a3b90)
 
 Bild von DevWorm's Youtoube Kanal
+
+konnte assets herunterladen und erste Einstelungen tätigen. Florian hat die Map gemacht und Mateo hat lange an einem movement script gearbeitet. Es hat sich aber ausgezahlt da es kurz vor Ende funktionierte.
 
 ## 13.09.2024
 - [ ] asdf
