@@ -16,6 +16,7 @@ Robin Taing
 - [x] familiarizing der Umgebung
 - [x] erstes Projekt in der Gruppe besprechen
 
+Wir haben ein Reposetory für die Gruppe gemacht https://github.com/muicmateo/Godot Sie werden kein zugriff haben da wir es auf privat gestellt haben (glaube ich zumindest). Dort wird auch Code hochgeladen
 
 ## 30.08.2024
 - [x] M322 Folien zur steuerbarkeit nochmal anschauen
