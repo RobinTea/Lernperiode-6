@@ -39,5 +39,36 @@ Bild von DevWorm's Youtoube Kanal
 
 Konnte Assets herunterladen und erste Einstelungen tätigen. Florian hat die Map gemacht und Mateo hat lange an einem movement script gearbeitet. Es hat sich aber ausgezahlt da es kurz vor Ende funktionierte.
 
-## 13.09.2024
-- [ ] asdf
+## 13.09.2024 
+- [x] collisions
+- [x] assets importieren
+- [x] map erstellen
+- [x] layers für die map erstellen
+
+![image](https://github.com/user-attachments/assets/f789bd50-bb45-4019-955c-2120f6411cdd)
+map implementiert
+
+
+![image](https://github.com/user-attachments/assets/59fdc909-83ca-4a2a-a0f7-b53fce996c46)
+Ich habe bestimmt wo der player hinter einem Objekt sein kann.
+
+![Screenshot 2024-09-20 135608](https://github.com/user-attachments/assets/718b9122-f07a-4e94-b123-ac112e35326a)
+collisions wurden hinzugefügt. Der Player kann nicht weiter laufen wenn er "colided"
+
+![image](https://github.com/user-attachments/assets/1972894e-8c34-49aa-835f-000bd7cc0b25)
+enemy hat nun auch eine healthbar.
+
+## 20.09.2024
+
+- [ ] fixen demo
+- [ ] googledrive Projekt herunterladen und vertraut werden
+- [ ] combat system implementieren
+- [ ] 
+
+
+
+
+
+
+
+
