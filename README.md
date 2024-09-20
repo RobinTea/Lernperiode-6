@@ -64,10 +64,10 @@ enemy hat nun auch eine healthbar.
 
 ## 20.09.2024
 
-- [ ] fixen demo
-- [ ] googledrive Projekt herunterladen und vertraut werden
+- [ ] combatsystem weiter fixen (logische fehler)
+- [x] googledrive Projekt herunterladen und vertraut werden (Main Project von https://github.com/FlorianRuby)
 - [ ] combat system implementieren
-- [ ] 
+- [x] inventory system mit https://github.com/muicmateo besprechen
 
 
 
