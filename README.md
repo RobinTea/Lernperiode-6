@@ -64,10 +64,16 @@ enemy hat nun auch eine healthbar.
 
 ## 20.09.2024
 
-- [ ] combatsystem weiter fixen (logische fehler)
+- [x] combatsystem weiter fixen (logische fehler) 1/5 gefixt
 - [x] googledrive Projekt herunterladen und vertraut werden (Main Project von https://github.com/FlorianRuby)
 - [ ] combat system implementieren
 - [x] inventory system mit https://github.com/muicmateo besprechen
+
+
+## 27.09.2024
+
+- [ ] combatsystem weiter fixen (logische fehler) 0/4
+- [ ] evt an LB von Modul 322 weiterarbeiten.
 
 
 
