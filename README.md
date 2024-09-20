@@ -72,7 +72,7 @@ enemy hat nun auch eine healthbar.
 
 ## 27.09.2024
 
-- [ ] combatsystem weiter fixen (logische fehler) 0/4
+- [ ] combatsystem Fehlerbehebung (logische fehler) 0/4
 - [ ] evt an LB von Modul 322 weiterarbeiten.
 
 
